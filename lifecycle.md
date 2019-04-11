@@ -2,12 +2,12 @@
 
 Use https://reactjs.org/docs/react-component.html#the-component-lifecycle and http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/ to answer these on your own then compare answers as a group
 
-1.  Each component has several `lifecycle methods` that you can override to do what?
-
-2.  What are the 4 categories of lifecycle methods? (these are the headings from the first link)
-
-3.  What are the names of the 6 commonly used lifecycle methods? (these are in bold in the first link)
-
+1. Each component has several lifecycle methods that you can override to do what?
+Answer: Each component has several “lifecycle methods” that you can override to run code at particular times in the process.
+2. What are the 4 categories of lifecycle methods? (these are the headings from the first link)
+Answer: mounting, updating, unmounting, and error handling
+3. What are the names of the 6 commonly used lifecycle methods? (these are in bold in the first link)
+Answer: Constructor(), render(), componentDidMount(), render(), componentDidUpdate(), componentWillUnmount()
 ### Understand
 
 Discuss this question in pairs if you have a 4-person group
